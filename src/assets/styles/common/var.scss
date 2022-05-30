@@ -1,0 +1,31 @@
+$--color-primary: #00455f;
+$--color-hover: #8e54e9;
+$--color-font: #ffffff;
+$--color-desc: #c0c4cc;
+
+$--color-not-active: rgba(141, 84, 233, 0.5);
+
+$--color-jb1: #4776E6;
+$--color-jb2: #8e54e9;
+$--color-jb3: #232526;
+$--color-jb4: #414345;
+$--color-jb5: #101010;
+$--color-jb6: #2c3e50;
+$--color-jb7: #d9dfe4;
+$--color-tran: transparent;
+
+
+$--color-card-bg: #100c2a;
+$--color-split-line: rgba(142, 84, 233, 0.3);
+$--color-bxs: #2c3e50;
+
+
+$--color-success: #67c23a;
+$--color-warning: #e6a23c;
+$--color-error: #f56c6c;
+
+/* BEM(block element modifier) 规范 */
+$namespace: 'os'; // 修饰命名空间
+$state-prefix: 'is-'; // 修饰状态
+$modifier-separator: '--'; // 修饰类型
+$element-separator: '__'; // 划分空间分隔符
